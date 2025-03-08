@@ -1,0 +1,281 @@
+{
+  "人文学科": {
+    "_is_completed": true,
+    "_original_name": "人文学科",
+    "_path": "expanded/academia\\人文学科",
+    "_files": [],
+    "哲学": {
+      "_is_completed": true,
+      "_original_name": "哲学",
+      "_path": "expanded/academia\\人文学科\\哲学",
+      "_files": [],
+      "价值论": {
+        "_is_completed": true,
+        "_original_name": "价值论",
+        "_path": "expanded/academia\\人文学科\\哲学\\价值论",
+        "_files": [
+          "axiology-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "伦理学": {
+        "_is_completed": true,
+        "_original_name": "伦理学",
+        "_path": "expanded/academia\\人文学科\\哲学\\伦理学",
+        "_files": [
+          "ethics-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "儒家哲学": {
+        "_is_completed": true,
+        "_original_name": "儒家哲学",
+        "_path": "expanded/academia\\人文学科\\哲学\\儒家哲学",
+        "_files": [
+          "confucian-philosophy-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "兵家": {
+        "_is_completed": false,
+        "_original_name": "兵家 (未完成)",
+        "_path": "expanded/academia\\人文学科\\哲学\\兵家 (未完成)",
+        "_files": [
+          "military-philosophy-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "农家": {
+        "_is_completed": false,
+        "_original_name": "农家 (未完成)",
+        "_path": "expanded/academia\\人文学科\\哲学\\农家 (未完成)",
+        "_files": [
+          "agriculturalism-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "分析哲学": {
+        "_is_completed": true,
+        "_original_name": "分析哲学",
+        "_path": "expanded/academia\\人文学科\\哲学\\分析哲学",
+        "_files": [
+          "analytic-philosophy-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "名家": {
+        "_is_completed": false,
+        "_original_name": "名家 (未完成)",
+        "_path": "expanded/academia\\人文学科\\哲学\\名家 (未完成)",
+        "_files": [
+          "school-of-names-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "墨家哲学": {
+        "_is_completed": false,
+        "_original_name": "墨家哲学 (未完成)",
+        "_path": "expanded/academia\\人文学科\\哲学\\墨家哲学 (未完成)",
+        "_files": [
+          "mohism-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "存在主义": {
+        "_is_completed": true,
+        "_original_name": "存在主义",
+        "_path": "expanded/academia\\人文学科\\哲学\\存在主义",
+        "_files": [
+          "existentialism-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "宗教哲学": {
+        "_is_completed": true,
+        "_original_name": "宗教哲学",
+        "_path": "expanded/academia\\人文学科\\哲学\\宗教哲学",
+        "_files": [
+          "philosophy-of-religion-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "小说家": {
+        "_is_completed": false,
+        "_original_name": "小说家 (未完成)",
+        "_path": "expanded/academia\\人文学科\\哲学\\小说家 (未完成)",
+        "_files": [
+          "school-of-minor-talk-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "形而上学": {
+        "_is_completed": true,
+        "_original_name": "形而上学",
+        "_path": "expanded/academia\\人文学科\\哲学\\形而上学",
+        "_files": [
+          "metaphysics-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "心灵哲学": {
+        "_is_completed": true,
+        "_original_name": "心灵哲学",
+        "_path": "expanded/academia\\人文学科\\哲学\\心灵哲学",
+        "_files": [
+          "philosophy-of-mind-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "政治哲学": {
+        "_is_completed": true,
+        "_original_name": "政治哲学",
+        "_path": "expanded/academia\\人文学科\\哲学\\政治哲学",
+        "_files": [
+          "political-philosophy-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "杂家": {
+        "_is_completed": false,
+        "_original_name": "杂家 (未完成)",
+        "_path": "expanded/academia\\人文学科\\哲学\\杂家 (未完成)",
+        "_files": [
+          "syncretism-school-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "法家哲学": {
+        "_is_completed": false,
+        "_original_name": "法家哲学 (未完成)",
+        "_path": "expanded/academia\\人文学科\\哲学\\法家哲学 (未完成)",
+        "_files": [
+          "legalism-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "现象学": {
+        "_is_completed": true,
+        "_original_name": "现象学",
+        "_path": "expanded/academia\\人文学科\\哲学\\现象学",
+        "_files": [
+          "phenomenology-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "科学哲学": {
+        "_is_completed": true,
+        "_original_name": "科学哲学",
+        "_path": "expanded/academia\\人文学科\\哲学\\科学哲学",
+        "_files": [
+          "philosophy-of-science-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "纵横家": {
+        "_is_completed": false,
+        "_original_name": "纵横家 (未完成)",
+        "_path": "expanded/academia\\人文学科\\哲学\\纵横家 (未完成)",
+        "_files": [
+          "school-of-diplomacy-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "美学": {
+        "_is_completed": true,
+        "_original_name": "美学",
+        "_path": "expanded/academia\\人文学科\\哲学\\美学",
+        "_files": [
+          "aesthetics-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "认识论": {
+        "_is_completed": true,
+        "_original_name": "认识论",
+        "_path": "expanded/academia\\人文学科\\哲学\\认识论",
+        "_files": [
+          "epistemology-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "语言哲学": {
+        "_is_completed": true,
+        "_original_name": "语言哲学",
+        "_path": "expanded/academia\\人文学科\\哲学\\语言哲学",
+        "_files": [
+          "philosophy-of-language-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "逻辑学": {
+        "_is_completed": true,
+        "_original_name": "逻辑学",
+        "_path": "expanded/academia\\人文学科\\哲学\\逻辑学",
+        "_files": [
+          "logic-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "道家哲学": {
+        "_is_completed": false,
+        "_original_name": "道家哲学 (未完成)",
+        "_path": "expanded/academia\\人文学科\\哲学\\道家哲学 (未完成)",
+        "_files": [
+          "taoist-philosophy-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "阴阳家": {
+        "_is_completed": false,
+        "_original_name": "阴阳家 (未完成)",
+        "_path": "expanded/academia\\人文学科\\哲学\\阴阳家 (未完成)",
+        "_files": [
+          "yin-yang-school-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "_is_leaf": false
+    },
+    "_is_leaf": false
+  },
+  "自然科学": {
+    "_is_completed": true,
+    "_original_name": "自然科学",
+    "_path": "expanded/academia\\自然科学",
+    "_files": [],
+    "化学": {
+      "_is_completed": true,
+      "_original_name": "化学",
+      "_path": "expanded/academia\\自然科学\\化学",
+      "_files": [],
+      "有机化学": {
+        "_is_completed": true,
+        "_original_name": "有机化学",
+        "_path": "expanded/academia\\自然科学\\化学\\有机化学",
+        "_files": [
+          "organic-chemistry-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "_is_leaf": false
+    },
+    "物理学": {
+      "_is_completed": true,
+      "_original_name": "物理学",
+      "_path": "expanded/academia\\自然科学\\物理学",
+      "_files": [],
+      "理论物理学": {
+        "_is_completed": true,
+        "_original_name": "理论物理学",
+        "_path": "expanded/academia\\自然科学\\物理学\\理论物理学",
+        "_files": [
+          "theoretical-physics-classification.json"
+        ],
+        "_is_leaf": true
+      },
+      "_is_leaf": false
+    },
+    "_is_leaf": false
+  },
+  "_is_leaf": false
+}
